@@ -35,33 +35,6 @@ Siap! Berikut adalah versi **lengkap dan praktis** dari `README.md` setup virtua
 
 ---
 
-````markdown
-# 🔧 Setup Python Virtual Environment (Multi-version Support)
-
-Dokumen ini menjelaskan cara memilih versi Python tertentu dan membuat virtual environment (venv) yang sesuai, lengkap dengan perintah penting lainnya. Cocok untuk setup awal project Python di berbagai sistem (Windows, Linux, MacOS).
-
----
-
-## 📌 Daftar Isi
-- [🎯 Tujuan](#-tujuan)
-- [🧪 Cek Versi Python](#-cek-versi-python)
-- [🛠️ Membuat Virtual Environment](#️-membuat-virtual-environment)
-- [▶️ Mengaktifkan Virtual Environment](#️-mengaktifkan-virtual-environment)
-- [📦 Manajemen Dependensi](#-manajemen-dependensi)
-- [✅ Cek Versi Python Aktif](#-cek-versi-python-aktif)
-- [🧹 Menghapus Virtual Environment](#-menghapus-virtual-environment)
-- [📎 Contoh Lengkap](#-contoh-lengkap)
-- [📁 Struktur Folder](#-struktur-folder)
-
----
-
-## 🧪 Cek Versi Python
-
-### Windows:
-```bash
-py -0
-````
-
 ### Linux/Mac:
 
 ```bash
