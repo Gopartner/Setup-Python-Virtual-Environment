@@ -31,8 +31,6 @@ Dokumen ini menjelaskan cara memilih versi Python tertentu dan membuat virtual e
 ```bash
 py -0
 ```
-Siap! Berikut adalah versi **lengkap dan praktis** dari `README.md` setup virtual environment Python, **dengan tambahan perintah penting** seperti upgrade `pip`, install requirements, generate `requirements.txt`, dan hapus venv jika perlu:
-
 ---
 
 ### Linux/Mac:
